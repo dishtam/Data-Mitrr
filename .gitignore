@@ -1,0 +1,9 @@
+# Virtual environments
+myenv/
+env/
+
+# IDE-specific files/folders
+.idea/
+
+# Exclude all .pyc files
+*.pyc
